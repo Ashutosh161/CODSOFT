@@ -1,0 +1,13 @@
+#container{
+   width: 100px;
+   margin: 0 auto;
+}
+.col1, .col2, .col3{
+  margin-left: 150px;
+    width: 200px;
+    float: left;
+
+}
+.col1{
+
+}
